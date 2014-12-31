@@ -1,0 +1,16 @@
+Package: com.rohan.testpackage
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: Rohan
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: .///com.rohan.testpackage_0.0.1-1_iphoneos-arm.deb
+Size: 2330
+MD5sum: 12c05a0119e1720c9afc2294ead9e32f
+SHA1: 2240fc9d50511fb33d35466fd9e216a7c066c7ba
+SHA256: 7fa95ef5dc3f906f04c49fffbb26761388fa48300c6ea691909a878e81b11c83
+Section: Tweaks
+Description: Useless tweak to display how to use this repo!
+Author: Rohan
+Depiction: <url of testpackage's index.html>
+Name: TestPackage
